@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 // Function declarations
 void merge_sort(int array[], int start_index, int last_index);
 void merge(int array[], int a, int b, int c);
